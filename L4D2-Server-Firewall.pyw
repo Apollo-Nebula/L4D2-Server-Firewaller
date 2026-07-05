@@ -1,9 +1,3 @@
-"""
-l4d_blocker_tk.py — L4D Server Blocker (simple Tkinter version)
-Blocks Lewd4Dead servers using Windows Firewall (netsh advfirewall).
-Must be run as Administrator. Pure stdlib — no extra packages needed.
-"""
-
 import ctypes, sys, os, json, subprocess, threading
 import urllib.request, urllib.error
 import tkinter as tk
