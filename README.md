@@ -1,5 +1,5 @@
 # L4D2-Server-Firewaller
-This is a python script that allows people to firewall l4d2 servers, it comes with lewd4dead pre blocked, plus an option to update the the blocking list from an online list i created and am updating.
+This is a python script that allows people to firewall l4d2 servers, it comes with lewd4dead pre blocked, plus an option to update the blocking list from an online list i created and am updating.
 
 
 To use this you must install python https://www.python.org/downloads/
